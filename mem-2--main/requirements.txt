@@ -1,0 +1,20 @@
+# Member 5 Marketplace Module Requirements
+# For Smart India Hackathon 2026 - KarigarConnect
+
+# Core dependencies (minimal)
+# The module uses only Python standard library for maximum compatibility
+
+# Optional: For better data validation (can be added later)
+# pydantic>=1.8
+
+# Testing
+pytest>=6.0
+pytest-cov>=2.10
+
+# Development
+black>=21.0  # Code formatting
+flake8>=3.9  # Linting
+mypy>=0.910  # Type checking
+
+# Documentation
+sphinx>=4.0  # Optional: for documentation generation
