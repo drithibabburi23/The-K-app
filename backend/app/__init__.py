@@ -1,1 +1,1 @@
-"""KarigarConnect backend application package."""
+"""KarigarConnect backend package."""
