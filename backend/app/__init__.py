@@ -1,0 +1,1 @@
+"""KarigarConnect backend application package."""
